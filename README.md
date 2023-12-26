@@ -3,7 +3,7 @@
 <img align="right" width="260px" style="margin-top:-20px" src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif">  
 <div style="margin: 20px 0; display:flex; gap:10px 5px;flex-wrap:wrap;">
 <h3 align="left">
-💻 Atualmente cursando engenharia de dados e fazendo outros cursos na área tech. <br> 💞️ Persistente, bem humorada... <br>📚 Apaixonada por leitura! <br>🧐 Me formei Desenvolvedora Back End em Java pelo <strong>Potencia tech:</strong> Oracle e Alura<br>
+💻 Atualmente cursando engenharia de dados e fazendo outros cursos na área tech. <br> 💞️ Persistente, bem humorada... <br>📚 Apaixonada por leitura! <br>🧐 Desenvolvedora Back End em Java pelo <strong>Potencia tech:</strong> Oracle e Alura<br>
 </h3>
 </div>
   <ul><strong>   
