@@ -1,5 +1,5 @@
 <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou Rosi </h1>
-font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Engenharia de Dados)](https://git.io/typing-svg)
+font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Engenharia de Dados)
 <img align="right" width="260px" style="margin-top:-20px" src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif">  
 <div style="margin: 20px 0; display:flex; gap:10px 5px;flex-wrap:wrap;">
 <h3 align="left">
