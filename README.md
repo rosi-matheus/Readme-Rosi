@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="center">📫 Me encontrar:</h2>
+<h2 align="center">📫 encontrar:</h2>
 
 ###
 
