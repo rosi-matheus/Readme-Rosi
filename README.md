@@ -1,4 +1,4 @@
-<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou Rosi </h1>
+<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, sou Rosi </h1>
 
 <img align="right" width="260px" style="margin-top:-20px" src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif">  
 <div style="margin: 20px 0; display:flex; gap:10px 5px;flex-wrap:wrap;">
