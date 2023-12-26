@@ -1,4 +1,4 @@
-<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou a Rosi </h1>
+<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou Rosi </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Engenharia de Dados)](https://git.io/typing-svg)
 <img align="right" width="260px" style="margin-top:-20px" src="https://www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif">  
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="center">📫 Onde me encontrar:</h2>
+<h2 align="center">📫 Me encontrar:</h2>
 
 ###
 
